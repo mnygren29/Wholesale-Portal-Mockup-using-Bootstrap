@@ -1,4 +1,6 @@
-This project is a mock-up an internal wholesale loan portal project.
+This project is a mock-up a wholesale loan portal project.
+
+It is client only mock-up with no real data or real functionality behind the scenes at this point.
 
 Please download the zip file and open in Visual Studio, and set the initial start page to index.html.
 
@@ -6,7 +8,6 @@ Or, you can just copy all files outside of the zip file to your local IIS, and t
 
 http://[your localhost and port]/index.html
 
-It is client only mock-up with no data or real functionality behind the scenes at this point.
 
 Development Features I used for the mockup include:
 
